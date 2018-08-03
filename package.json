@@ -1,0 +1,24 @@
+{
+  "name": "BottomLib",
+  "version": "1.0.0",
+  "description": "this imports redux as peerDependency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xiaosha61/BottomLib.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xiaosha61/BottomLib/issues"
+  },
+  "homepage": "https://github.com/Xiaosha61/BottomLib#readme",
+  "peerDependencies": {
+    "chai": "^1.1.0",
+    "redux": "^3.1.3"
+  }
+}
